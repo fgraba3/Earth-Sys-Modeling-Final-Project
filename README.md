@@ -1,2 +1,3 @@
 # Earth-Sys-Modeling-Final-Project
-Simulation of lake evaporation
+Simulation of lake evaporation using an Eddy Diffusion Model
+Eddy
