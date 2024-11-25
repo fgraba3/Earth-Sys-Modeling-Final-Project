@@ -11,5 +11,5 @@ To simulate and interpret lake evaporation of Harney-Malheur Lake, Oregon, Hoste
 There are a variety of different physical processes that are considered by this model; including shortwave and longwave radiation, flux of latent and sensible heat, as well as evaporation determined by the mass transfer technique of Harbeck [1962].  
 $$∂T/∂z=(1/A(z))$$
 Equation 1: The governing equation of the model incorporates all parameters that go into calculating evaporation, including: 
-**still working on formatting equations correctly because they are not copy pasting** 
+**still working on formatting equations correctly because they are not copy pasting correctly** 
 
