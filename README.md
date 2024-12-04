@@ -9,3 +9,4 @@ To simulate and interpret lake evaporation of Harney-Malheur Lake, Oregon, Hoste
 ***
 
 
+[Problem Set 4 - Jupyter Notebook.pdf](https://github.com/user-attachments/files/18013887/Problem.Set.4.-.Jupyter.Notebook.pdf)
