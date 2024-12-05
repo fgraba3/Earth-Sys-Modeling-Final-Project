@@ -10,3 +10,6 @@ To simulate and interpret lake evaporation of Harney-Malheur Lake, Oregon, Hoste
 See Equations via this pdf 
 [Governing Equations.pdf](https://github.com/user-attachments/files/18028040/Governing.Equations.pdf)
 ***
+What simulations did you run with the model? 
+
+Developing a base case analysis, we ran the model first using Dirichlet boundary conditions using an oscillating sine function to mimic the temperature profile of the lake. We also used a constant diffusivity value for simplicity. Once we got the model to work, we updated the diffusion value to act as a PDE changing with depth over time (D(z,t)). This method allows us to account for both molecular diffusion of water, eddy diffusion, and the area of the lake at depth z. While the paper implements Neuman boundary conditions, we use Dirichlet for simplicity in both models.  
