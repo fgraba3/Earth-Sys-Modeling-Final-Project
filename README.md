@@ -10,7 +10,7 @@ To simulate and interpret lake evaporation of Harney-Malheur Lake, Oregon, Hoste
 See Equations via this pdf 
 [Governing Equations.pdf](https://github.com/user-attachments/files/18028040/Governing.Equations.pdf)
 ***
-**References**
+**References:**
 Šarović, K., Burić, M., & Klaić, Z. B. (2022). SIMO v1.0: simplified model of the vertical temperature profile in a small, warm, monomictic lake. Geoscientific Model Development, 15(22), 8349–8375. https://doi.org/10.5194/gmd-15-8349-2022
 
 World Lake Database - ILEC. (n.d.). Wldb.ilec.or.jp. https://wldb.ilec.or.jp/
