@@ -1,5 +1,8 @@
 # Earth-Sys-Modeling-Final-Project
 Simulation of lake evaporation using an eddy diffusion model - Kylee Graham & Frank Graba
+Video Link:
+Part 1: https://www.loom.com/share/a8f6355d1dd141f2b9c289fa668a3391?sid=2904bfb6-a823-4f76-b90b-a6d28883cc97
+Part 2: https://www.loom.com/share/9ecacc69790844c98d8f12599abb6a43
 ***
 **Main Theme:**
 The main theme of this paper is to accurately model evaporation and water level in lakes based on an eddy diffusion model. This can help us understand how climatic variations such as precipitation, cloud coverage, and temperature can impact water levels in lakes. This is important because lakes can serve as sources of drinking water, and a better understanding of this type of modeling can help predict when droughts would occur. Which would better prepare areas for limiting water usage for non-drinking activities. This type of modeling could also be used to predict when water levels are increasing due to low evaporation and to warn of flooding. Overall, this modeling is useful both for safety in terms of understanding periods of flooding or low levels of drinking water, as well as gaining a scientific understanding of how climatic variables affect lake evaporation.
