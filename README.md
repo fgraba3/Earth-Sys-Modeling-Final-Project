@@ -13,6 +13,9 @@ To simulate and interpret lake evaporation of Harney-Malheur Lake, Oregon, Hoste
 **Numerical Methods:** see code via the .ipynb file (go to file from tab)
 ***
 **References:**
+
+Henderson-Sellers, B., & Davies, A. M. (1989). Thermal stratification modeling for oceans and Lakes. Annual Review of Heat Transfer, 2(2), 86–156. https://doi.org/10.1615/annualrevheattransfer.v2.50 
+
 Hostetler, S. W., & Bartlein, P. J. (1990). Simulation of lake evaporation with application to modeling lake level variations of Harney-Malheur Lake, Oregon. Water Resources Research, 26(10), 2603–2612. https://doi.org/10.1029/wr026i010p02603
 
 McCormick, M. J., & Meadows, G. A. (1988). An intercomparison of four mixed layer models in a shallow Inland Sea. Journal of Geophysical Research: Oceans, 93(C6), 6774–6788. https://doi.org/10.1029/jc093ic06p06774 
