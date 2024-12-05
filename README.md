@@ -1,7 +1,9 @@
 # Earth-Sys-Modeling-Final-Project
 Simulation of lake evaporation using an eddy diffusion model - Kylee Graham & Frank Graba
+
 Video Link:
 Part 1: https://www.loom.com/share/a8f6355d1dd141f2b9c289fa668a3391?sid=2904bfb6-a823-4f76-b90b-a6d28883cc97
+
 Part 2: https://www.loom.com/share/9ecacc69790844c98d8f12599abb6a43
 ***
 **Main Theme:**
