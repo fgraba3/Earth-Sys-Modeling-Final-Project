@@ -44,6 +44,8 @@ The model showed us the complexities and difficulties of trying to accurately mo
 
 Improvements to the model could be made by accounting for more of the natural processes that we assumed to no longer be in effect. This would include accounting for the shortwave and longwave radiation that warm the lake surface, understanding that the lake surface area changes with depth and is not constant, accounting for other parameters like albedo that may impact the heat received at the surface of the lake. To further improve the methods of the model the given Neumann boundaries would need to be implemented for a more accurate depiction of surface and bottom temperatures of the lake such as a no-flux lower boundary. Another improvement that could be made is to account for the eddy diffusivity value (K(z,t)) more accurately. While we chose a simple sinodial function to model variances, this was not used within Hostetler & Bartlein (1990)’s paper. We believe this is one reason our diffusivity function may not have best represented thermal heat diffusivity within a lake. With more careful consideration of the appropraie as outlined in our equations section, we could have developed more accurate temperature gradient and diffusivity profiles. Another way to improve our model is to incorporate real time data of water surface temperature of Lake Pyramid. By including real data, this makes the model more applicable to understand not only seasonal variation of temperature but determining if there are climate related interpretations as well.  
 
+***
+
 **References:**
 
 Henderson-Sellers, B., & Davies, A. M. (1989). Thermal stratification modeling for oceans and Lakes. Annual Review of Heat Transfer, 2(2), 86–156. https://doi.org/10.1615/annualrevheattransfer.v2.50 
